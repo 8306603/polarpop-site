@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PolarPop Support</title>
+  <link rel="icon" href="assets/ios_app_icon.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-initial-view="support">
+  <main class="page">
+    <header class="topbar">
+      <a class="brand" href="index.html" data-view-link="home" aria-label="PolarPop">
+        <img src="assets/ios_app_icon.png" alt="">
+        <span class="wordmark">POLARPOP</span>
+      </a>
+      <nav class="nav" aria-label="Site">
+        <a href="index.html" data-view-link="home" data-copy="homeNav">Home</a>
+        <a href="privacy.html" data-view-link="privacy" data-copy="privacyNav">Privacy</a>
+        <a href="support.html" data-view-link="support" data-copy="supportNav">Support</a>
+        <label class="language">
+          <select id="languageSelect" aria-label="Language"></select>
+        </label>
+      </nav>
+    </header>
+
+    <section class="slot-stage" aria-live="polite">
+      <div class="output-dock" aria-hidden="true">
+        <div class="dock-face"></div>
+        <div class="dock-wordmark">POLARPOP CAMERA</div>
+      </div>
+
+      <div class="paper-track">
+        <article id="paperSheet" class="photo-paper">
+          <div id="paperContent"></div>
+        </article>
+      </div>
+
+      <div class="output-mouth"></div>
+    </section>
+
+    <footer class="footer">
+      <span>2026 PolarPop</span>
+    </footer>
+  </main>
+  <script src="site.js"></script>
+</body>
+</html>
