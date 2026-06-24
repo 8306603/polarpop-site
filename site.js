@@ -16,8 +16,9 @@ const translations = {
       ["Photos and Live Photos", "Photos, generated retro prints, and Live Photo media are stored on your device or in your photo library when you choose to save them. PolarPop does not sell your photos or personal data."],
       ["Location Data", "If you allow location access, PolarPop can attach location information to photos and display them on a travel map. You can disable location permission at any time in iOS Settings."],
       ["Data Sharing", "PolarPop does not sell personal data. Data is shared only when required to provide app functionality, comply with law, or when you choose to export or share a photo."],
+      ["In-App Purchases and Subscriptions", "In-app purchases and subscriptions are processed by Apple. PolarPop does not collect or store your payment card information."],
       ["Children's Privacy", "PolarPop is not directed to children under 13. If you believe a child has provided personal information, contact us so we can help."],
-      ["Contact", "For privacy questions, contact us at the email address shown on the support page."]
+      ["Contact", "For privacy questions, contact us at diowang@gmail.com."]
     ],
     supportSections: [
       ["Contact", "For help with PolarPop, email: diowang@gmail.com"],
@@ -44,8 +45,9 @@ const translations = {
       ["照片与 Live Photo", "照片、生成的复古相纸作品以及 Live Photo 媒体会在你选择保存时存储到设备或照片图库中。PolarPop 不会出售你的照片或个人数据。"],
       ["位置数据", "如果你允许位置访问，PolarPop 可以为照片附加位置信息，并在旅行地图中展示。你可以随时在 iOS 设置中关闭位置权限。"],
       ["数据共享", "PolarPop 不会出售个人数据。只有在提供应用功能、遵守法律要求，或你主动导出/分享照片时，相关数据才会被使用或共享。"],
+      ["App 内购买与订阅", "App 内购买和订阅由 Apple 处理。PolarPop 不会收集或存储你的支付卡信息。"],
       ["儿童隐私", "PolarPop 并非面向 13 岁以下儿童。如果你认为儿童向我们提供了个人信息，请联系我们处理。"],
-      ["联系我们", "如有隐私相关问题，请通过技术支持页面中的邮箱联系我们。"]
+      ["联系我们", "如有隐私相关问题，请通过 diowang@gmail.com 联系我们。"]
     ],
     supportSections: [
       ["联系方式", "如需 PolarPop 使用帮助，请发送邮件至：diowang@gmail.com"],
@@ -72,8 +74,9 @@ const translations = {
       ["照片與 Live Photo", "照片、生成的復古相紙作品以及 Live Photo 媒體會在你選擇儲存時存到裝置或照片圖庫。PolarPop 不會出售你的照片或個人資料。"],
       ["位置資料", "如果你允許位置存取，PolarPop 可為照片加入位置資訊，並在旅行地圖中顯示。你可隨時在 iOS 設定中關閉位置權限。"],
       ["資料分享", "PolarPop 不會出售個人資料。只有在提供 App 功能、遵守法律要求，或你主動匯出/分享照片時，相關資料才會被使用或分享。"],
+      ["App 內購買與訂閱", "App 內購買和訂閱由 Apple 處理。PolarPop 不會收集或儲存你的支付卡資訊。"],
       ["兒童隱私", "PolarPop 並非面向 13 歲以下兒童。如果你認為兒童向我們提供了個人資訊，請聯絡我們處理。"],
-      ["聯絡我們", "如有隱私相關問題，請透過技術支援頁面的電子郵件聯絡我們。"]
+      ["聯絡我們", "如有隱私相關問題，請透過 diowang@gmail.com 聯絡我們。"]
     ],
     supportSections: [
       ["聯絡方式", "如需 PolarPop 使用協助，請寄信至：diowang@gmail.com"],
@@ -100,8 +103,9 @@ const translations = {
       ["写真と Live Photo", "写真、生成されたレトロプリント、Live Photo メディアは、保存を選択した場合に端末または写真ライブラリに保存されます。PolarPop は写真や個人データを販売しません。"],
       ["位置情報", "位置情報を許可すると、PolarPop は写真に位置情報を付け、旅行マップに表示できます。位置情報の権限は iOS 設定でいつでも変更できます。"],
       ["データ共有", "PolarPop は個人データを販売しません。アプリ機能の提供、法令遵守、またはユーザーが写真をエクスポート・共有する場合に限り、必要なデータが利用されます。"],
+      ["アプリ内課金とサブスクリプション", "アプリ内課金とサブスクリプションは Apple によって処理されます。PolarPop は支払いカード情報を収集または保存しません。"],
       ["児童のプライバシー", "PolarPop は 13 歳未満の児童を対象としていません。児童が個人情報を提供したと思われる場合はご連絡ください。"],
-      ["お問い合わせ", "プライバシーに関するお問い合わせは、サポートページに記載のメールアドレスまでご連絡ください。"]
+      ["お問い合わせ", "プライバシーに関するお問い合わせは、diowang@gmail.com までご連絡ください。"]
     ],
     supportSections: [
       ["お問い合わせ", "PolarPop のサポートが必要な場合は、diowang@gmail.com までメールでご連絡ください。"],
@@ -128,8 +132,9 @@ const translations = {
       ["사진 및 Live Photo", "사진, 생성된 레트로 프린트, Live Photo 미디어는 사용자가 저장을 선택할 때 기기 또는 사진 보관함에 저장됩니다. PolarPop은 사진이나 개인 데이터를 판매하지 않습니다."],
       ["위치 데이터", "위치 접근을 허용하면 PolarPop은 사진에 위치 정보를 추가하고 여행 지도에 표시할 수 있습니다. 위치 권한은 iOS 설정에서 언제든지 변경할 수 있습니다."],
       ["데이터 공유", "PolarPop은 개인 데이터를 판매하지 않습니다. 앱 기능 제공, 법적 요구 준수, 또는 사용자가 사진을 내보내거나 공유하는 경우에만 필요한 데이터가 사용됩니다."],
+      ["앱 내 구입 및 구독", "앱 내 구입과 구독은 Apple에서 처리합니다. PolarPop은 결제 카드 정보를 수집하거나 저장하지 않습니다."],
       ["아동 개인정보", "PolarPop은 만 13세 미만 아동을 대상으로 하지 않습니다. 아동이 개인정보를 제공했다고 생각되면 문의해 주세요."],
-      ["문의", "개인정보 관련 문의는 지원 페이지에 표시된 이메일로 연락해 주세요."]
+      ["문의", "개인정보 관련 문의는 diowang@gmail.com 으로 연락해 주세요."]
     ],
     supportSections: [
       ["문의", "PolarPop 도움이 필요하면 diowang@gmail.com 으로 이메일을 보내주세요."],
@@ -156,8 +161,9 @@ const translations = {
       ["Photos et Live Photos", "Les photos, tirages rétro générés et médias Live Photo sont stockés sur votre appareil ou dans votre photothèque lorsque vous choisissez de les enregistrer. PolarPop ne vend pas vos photos ni vos données personnelles."],
       ["Données de localisation", "Si vous autorisez la localisation, PolarPop peut associer un lieu aux photos et les afficher sur une carte de voyage. Vous pouvez désactiver cette autorisation à tout moment dans les réglages iOS."],
       ["Partage des données", "PolarPop ne vend pas les données personnelles. Les données ne sont utilisées que pour fournir les fonctions de l'app, respecter la loi ou lorsque vous choisissez d'exporter ou partager une photo."],
+      ["Achats intégrés et abonnements", "Les achats intégrés et les abonnements sont traités par Apple. PolarPop ne collecte ni ne stocke les informations de votre carte de paiement."],
       ["Confidentialité des enfants", "PolarPop ne s'adresse pas aux enfants de moins de 13 ans. Si vous pensez qu'un enfant a fourni des informations personnelles, contactez-nous."],
-      ["Contact", "Pour toute question de confidentialité, utilisez l'adresse e-mail indiquée sur la page d'assistance."]
+      ["Contact", "Pour toute question de confidentialité, contactez-nous à diowang@gmail.com."]
     ],
     supportSections: [
       ["Contact", "Pour obtenir de l'aide avec PolarPop, écrivez à diowang@gmail.com."],
@@ -184,8 +190,9 @@ const translations = {
       ["Fotos und Live Photos", "Fotos, erzeugte Retro-Abzüge und Live-Photo-Medien werden auf deinem Gerät oder in deiner Fotomediathek gespeichert, wenn du sie speicherst. PolarPop verkauft keine Fotos oder personenbezogenen Daten."],
       ["Standortdaten", "Wenn du Standortzugriff erlaubst, kann PolarPop Standortinformationen zu Fotos hinzufügen und sie auf einer Reisekarte anzeigen. Du kannst die Standortberechtigung jederzeit in den iOS-Einstellungen deaktivieren."],
       ["Datenweitergabe", "PolarPop verkauft keine personenbezogenen Daten. Daten werden nur verwendet, um App-Funktionen bereitzustellen, gesetzliche Anforderungen zu erfüllen oder wenn du ein Foto exportierst oder teilst."],
+      ["In-App-Käufe und Abonnements", "In-App-Käufe und Abonnements werden von Apple verarbeitet. PolarPop erhebt oder speichert keine Zahlungskartendaten."],
       ["Datenschutz von Kindern", "PolarPop richtet sich nicht an Kinder unter 13 Jahren. Wenn du glaubst, dass ein Kind personenbezogene Daten bereitgestellt hat, kontaktiere uns bitte."],
-      ["Kontakt", "Bei Datenschutzfragen nutze bitte die E-Mail-Adresse auf der Support-Seite."]
+      ["Kontakt", "Bei Datenschutzfragen kontaktiere uns bitte unter diowang@gmail.com."]
     ],
     supportSections: [
       ["Kontakt", "Für Hilfe mit PolarPop schreibe an diowang@gmail.com."],
@@ -212,8 +219,9 @@ const translations = {
       ["Fotos y Live Photos", "Las fotos, copias retro generadas y medios Live Photo se guardan en tu dispositivo o fototeca cuando decides guardarlos. PolarPop no vende tus fotos ni tus datos personales."],
       ["Datos de ubicación", "Si permites el acceso a la ubicación, PolarPop puede añadir información de ubicación a las fotos y mostrarlas en un mapa de viaje. Puedes desactivar este permiso en cualquier momento desde Ajustes de iOS."],
       ["Compartir datos", "PolarPop no vende datos personales. Los datos solo se usan para ofrecer funciones de la app, cumplir la ley o cuando eliges exportar o compartir una foto."],
+      ["Compras dentro de la app y suscripciones", "Las compras dentro de la app y las suscripciones son procesadas por Apple. PolarPop no recopila ni almacena la información de tu tarjeta de pago."],
       ["Privacidad de menores", "PolarPop no está dirigida a menores de 13 años. Si crees que un menor proporcionó información personal, contáctanos."],
-      ["Contacto", "Para preguntas de privacidad, usa el correo indicado en la página de soporte."]
+      ["Contacto", "Para preguntas de privacidad, contáctanos en diowang@gmail.com."]
     ],
     supportSections: [
       ["Contacto", "Para recibir ayuda con PolarPop, escribe a diowang@gmail.com."],
@@ -400,7 +408,7 @@ function getViewCopy(view, language) {
       eyebrow: "POLARPOP",
       title: base.privacyTitle,
       lead: base.privacyLead,
-      meta: "",
+      meta: base.updated,
       sections: base.privacySections,
       titleSuffix: base.privacy
     };
